@@ -1,0 +1,3 @@
+Eu tentei utilizar o algoritmo HYPER apresentado no livro
+do Bratko, já que implementava o contador dos valores pedidos,
+mas não fui capaz de fazê-lo funcionar.
